@@ -1,0 +1,3 @@
+host = "192.168.1.113"
+whitelist-ids = ["Songza_App", "GoogleMusic"]
+whitelist-descriptions = ["www.rdio.com"]
